@@ -1,0 +1,12 @@
+div{
+	width: 200px;
+	height: 200px;
+	float: left;
+	margin: 25px;
+
+}
+hr{
+	width: 110px;
+	margin: 0px;
+	border: solid;
+}
